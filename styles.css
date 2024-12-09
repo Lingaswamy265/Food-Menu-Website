@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    background: linear-gradient(45deg,lightsalmon,lightgreen);
+}
+
+    h1{
+        
+       background-color: rgb(14, 2, 11);
+       color: white;
+       padding: 10px;
+       border-radius: 20px;
+       box-shadow: 0px 0px 10px black;
+    }
+    table{
+        width: 100%;
+    }
+    h2{
+       
+        background-color: green;
+        color: white;
+        padding: 10px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 10px black;
+    }
+
+img{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+
+img.main{
+    width:600px;
+    height:270px;
+}
